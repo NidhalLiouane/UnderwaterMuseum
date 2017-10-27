@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: fe13daf8f6bf96b41af8ae14050d4017
+timeCreated: 1507413837
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: obj_3__Default_geo
+    100002: Shark
+    100004: //RootNode
+    100006: SharkBack Left Fin
+    100008: SharkBack Right Fin
+    100010: SharkChest
+    100012: SharkHead
+    100014: SharkJaw
+    100016: SharkLeft Eye
+    100018: SharkLFin1
+    100020: SharkLFinCollarbone
+    100022: SharkLFinPalm
+    100024: SharkNeck1
+    100026: SharkNeck2
+    100028: SharkPelvis
+    100030: SharkRFin1
+    100032: SharkRFinCollarbone
+    100034: SharkRFinPalm
+    100036: SharkRight Eye
+    100038: SharkSpine
+    100040: SharkTail1
+    100042: SharkTail2
+    100044: SharkTail3
+    100046: SharkTail4
+    100048: SharkTail5
+    100050: SharkTail6
+    100052: SharkTail7
+    100054: SharkTail8
+    400000: obj_3__Default_geo
+    400002: Shark
+    400004: //RootNode
+    400006: SharkBack Left Fin
+    400008: SharkBack Right Fin
+    400010: SharkChest
+    400012: SharkHead
+    400014: SharkJaw
+    400016: SharkLeft Eye
+    400018: SharkLFin1
+    400020: SharkLFinCollarbone
+    400022: SharkLFinPalm
+    400024: SharkNeck1
+    400026: SharkNeck2
+    400028: SharkPelvis
+    400030: SharkRFin1
+    400032: SharkRFinCollarbone
+    400034: SharkRFinPalm
+    400036: SharkRight Eye
+    400038: SharkSpine
+    400040: SharkTail1
+    400042: SharkTail2
+    400044: SharkTail3
+    400046: SharkTail4
+    400048: SharkTail5
+    400050: SharkTail6
+    400052: SharkTail7
+    400054: SharkTail8
+    4300000: obj_3__Default_geo
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: obj_3__Default_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

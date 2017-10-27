@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 97a9c404d9978bf448a8620509f15210
+timeCreated: 1507413836
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: delfinh
+    100002: delfinh_MeshPart0
+    100004: delfinh_MeshPart1
+    100006: Dolphin
+    100008: DolphinChest
+    100010: DolphinFin
+    100012: DolphinHead
+    100014: DolphinJawBone
+    100016: DolphinLArm1
+    100018: DolphinLArm2
+    100020: DolphinLArm3
+    100022: DolphinLArmCollarbone
+    100024: DolphinLArmPalm
+    100026: DolphinLeftTailFlipper
+    100028: DolphinNeck1
+    100030: DolphinNeck2
+    100032: DolphinNeck3
+    100034: DolphinNeck4
+    100036: DolphinPelvis
+    100038: DolphinRArm1
+    100040: DolphinRArm2
+    100042: DolphinRArm3
+    100044: DolphinRArmCollarbone
+    100046: DolphinRArmPalm
+    100048: DolphinRightTailFlipper
+    100050: DolphinSpine1
+    100052: DolphinSpine2
+    100054: DolphinTail1
+    100056: DolphinTail2
+    100058: DolphinTail3
+    100060: DolphinTail4
+    100062: DolphinTail5
+    100064: DolphinTongue
+    100066: //RootNode
+    400000: delfinh
+    400002: delfinh_MeshPart0
+    400004: delfinh_MeshPart1
+    400006: Dolphin
+    400008: DolphinChest
+    400010: DolphinFin
+    400012: DolphinHead
+    400014: DolphinJawBone
+    400016: DolphinLArm1
+    400018: DolphinLArm2
+    400020: DolphinLArm3
+    400022: DolphinLArmCollarbone
+    400024: DolphinLArmPalm
+    400026: DolphinLeftTailFlipper
+    400028: DolphinNeck1
+    400030: DolphinNeck2
+    400032: DolphinNeck3
+    400034: DolphinNeck4
+    400036: DolphinPelvis
+    400038: DolphinRArm1
+    400040: DolphinRArm2
+    400042: DolphinRArm3
+    400044: DolphinRArmCollarbone
+    400046: DolphinRArmPalm
+    400048: DolphinRightTailFlipper
+    400050: DolphinSpine1
+    400052: DolphinSpine2
+    400054: DolphinTail1
+    400056: DolphinTail2
+    400058: DolphinTail3
+    400060: DolphinTail4
+    400062: DolphinTail5
+    400064: DolphinTongue
+    400066: //RootNode
+    4300000: delfinh_MeshPart0
+    4300002: delfinh_MeshPart1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: delfinh_MeshPart0
+    13700002: delfinh_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
