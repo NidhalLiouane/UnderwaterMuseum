@@ -1,11 +1,11 @@
-Udacity-VR-Nano-Degree-Project-5-Museum.
+#Udacity-VR-Nano-Degree-Project-5-Museum.
 
 
-Project Dependencies:
+#Project Dependencies:
 Unity3d version : unity 2017.1.0p4.(64bit).
 GoogleVR SDK :version 1.60.0.
 
-Instructions:
+#Instructions:
 Open project in Unity 2017.1.0p4.(64bit).
 Load s_00 scene .
 Switch the build to Android.
