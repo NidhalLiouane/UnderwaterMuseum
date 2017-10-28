@@ -1,5 +1,11 @@
 # Udacity-VR-Nano-Degree-Project-5-Museum.
 
+## VR Underwater Museum.
+
+I really enjoyed working on this project and it was a really enriching experience. 
+This project could be used for educational purposes, but also for entertainement industries. 
+The Underwater museum helps students see and interact with the animated fish models in their environment with many fields of view  , and live the magic of VR.
+
 
 ## Project Dependencies:
 
@@ -24,3 +30,7 @@ Main scene :\UnderwaterMuseum\Assets\s_00.
 Museum Scene:\UnderwaterMuseum\Assets\Underwater_Museum.
 
 A demo video in the INFO folder(UnderwaterMuseumProject\UnderwaterMuseum\INFO).
+
+I really enjoyed working on this project and it was a really enriching experience. 
+This project could be used for educational purposes, but also for entertainement industries. 
+The Underwater museum helps students see and interact with the animated fish models in their environment with many fields of view  , and live the magic of VR.
